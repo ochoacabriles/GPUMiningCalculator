@@ -1,0 +1,25 @@
+{
+  "name": "mincalc",
+  "version": "1.0.0",
+  "description": "This bot will assist you to make better decissions with your mining RIG, calculating the most rentable coin to mine",
+  "main": "minCalc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mining",
+    "telegram",
+    "bot",
+    "calculator",
+    "ETH",
+    "ZCASH",
+    "Crypto"
+  ],
+  "author": "Rafael Ochoa <ochoacabriles@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-telegram-bot-api": "^0.30.0",
+    "request-promise": "^4.2.2"
+  }
+}
